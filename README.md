@@ -1,29 +1,41 @@
-# JEE-Activite-Pratique-4
+# Architectures-Micro-services-avec-Spring-Cloud
 
-L'objectif de cette activite est de créer une application de e-commerce basée sur une architecture de microservices. Le backend a été développé en utilisant le framework Spring Boot en intégrant Vault pour garantir le traitement sécurisé des informations sensibles et Consul pour la découverte des services et la configuration centralisée, tandis que le frontend a été implémenté avec Angular.
+
+
+
+Activité Pratique N°4 :
+
 
 <img width="278" alt="Screenshot 2023-12-06 123338" src="https://github.com/Ikramouslih/JEE-Activite-Pratique-4/assets/60039200/87d922e6-398a-49f4-8ca3-d167fa2e3375">
 
 
-### Travail à faire ###
+      Créer une application de e-commerce basée sur les micro services :      
+      1. Consul Discovery
+      
+         2. Spring Cloud Config
+         
+         3. Spring Cloud Gateway
+         
+         4. Customer-service
+         
+         5. Inventory Service
+         
+        6. Order Service
+        
+        7. Consul Config (Billing Service)
+        
+        8. Vault (Billing Service)
+        
+        9. Frontend Web avec Angular
+        
 
-Créer une application de e-commerce basée sur les micro services :
-1. Consul Discovery;
-2. Spring Cloud Config;
-3. Spring Cloud Gateway;
-4. Customer-service;
-5. Inventory Service;
-6. Order Service;
-7. Consul Config (Billing Service);
-8. Vault (Billing Service);
-9. Frontend Web avec Angular.
+        Vidéos :
+          Part 1- https://www.youtube.com/watch?v=LPdfVmllSQo
+          Part 2 : https://www.youtube.com/watch?v=L0mdrY36tpk
+          Part 3 : https://www.youtube.com/watch?v=L36O1edFPJE
+          Part 4 : https://www.youtube.com/watch?v=aQRgO2OxC0w
+          Part 5 : https://www.youtube.com/watch?v=iMCjDRUXoeM
 
-=> Vidéos à utiliser comme ressources : 
-- Part 1- https://www.youtube.com/watch?v=LPdfVmllSQo
-- Part 2 : https://www.youtube.com/watch?v=L0mdrY36tpk
-- Part 3 : https://www.youtube.com/watch?v=L36O1edFPJE
-- Part 4 : https://www.youtube.com/watch?v=aQRgO2OxC0w
-- Part 5 : https://www.youtube.com/watch?v=iMCjDRUXoeM
 
 ### Les dépendences utilisées ### 
 
